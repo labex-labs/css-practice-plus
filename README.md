@@ -11,8 +11,8 @@ In this course, You will practice more labs of CSS. This will help you to master
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                  |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                  |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 3D Rotating Cube                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/165641'>Start Lab</a> |
 |      02 | 📖 Animated Social Sharing Buttons With CSS              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179618'>Start Lab</a> |
 |      03 | 📖 Your First CSS Lab                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92744'>Start Lab</a>  |
