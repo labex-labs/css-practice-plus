@@ -11,7 +11,7 @@ In this course, You will practice more labs of CSS. This will help you to master
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                  |
+|   Index | Name                                                    | Difficulty   | Practice                                                             |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 3D Rotating Cube                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/165641'>Start Lab</a> |
 |      02 | 📖 Animated Social Sharing Buttons With CSS              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/179618'>Start Lab</a> |
@@ -106,4 +106,9 @@ In this course, You will practice more labs of CSS. This will help you to master
 |      91 | 📖 Responsive Image Mosaic                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35218'>Start Lab</a>  |
 |      92 | 📖 Animated Checkbox Styling with CSS                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35185'>Start Lab</a>  |
 |      93 | 📖 Image Overlay on Hover                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/35219'>Start Lab</a>  |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 
